@@ -10,10 +10,6 @@
 
 ###
 
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/147283224"  />
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yusabozkus&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=25" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusabozkus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
@@ -37,7 +33,6 @@
   <a href="https://stackoverflow.com/users/22488455/yusabozkus" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=flat" height="34" alt="stackoverflow logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="34" alt="microsoft-outlook logo"  />
 </div>
 
 ###
@@ -90,24 +85,24 @@
 
 ###
 
-<img align="right" height="320" src="https://i.redd.it/n8agw6z2smyb1.gif"  />
+<img align="right" height="250" src="https://i.redd.it/n8agw6z2smyb1.gif"  />
 
 ###
 
 <div align="left">
   <a href="https://open.spotify.com/user/xti17p967hpryzkrfi9n51ate">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xti17p967hpryzkrfi9n51ate&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xti17p967hpryzkrfi9n51ate&count=4" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-<img align="right" height="240" src="https://64.media.tumblr.com/2cb005113fc8030a47e44e8ca13cdc89/95bcc4aeacbe4c7e-da/s1280x1920/1947dce1eac8a2fa232f55951238c00f590b50c2.gif"  />
+<img align="right" height="180" src="https://64.media.tumblr.com/2cb005113fc8030a47e44e8ca13cdc89/95bcc4aeacbe4c7e-da/s1280x1920/1947dce1eac8a2fa232f55951238c00f590b50c2.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusabozkus&radius=50&theme=synthwave-84&area=true&order=5" height="245" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusabozkus&radius=50&theme=synthwave-84&area=true&order=5" height="180" alt="activity-graph graph"  />
 </div>
 
 ###
