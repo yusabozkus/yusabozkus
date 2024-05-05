@@ -97,18 +97,12 @@
 
 ###
 
-<img align="right" height="205" src="https://64.media.tumblr.com/2cb005113fc8030a47e44e8ca13cdc89/95bcc4aeacbe4c7e-da/s1280x1920/1947dce1eac8a2fa232f55951238c00f590b50c2.gif"  />
+<img align="left" height="205" src="https://64.media.tumblr.com/2cb005113fc8030a47e44e8ca13cdc89/95bcc4aeacbe4c7e-da/s1280x1920/1947dce1eac8a2fa232f55951238c00f590b50c2.gif"  />
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusabozkus&radius=50&theme=synthwave-84&area=true&order=5" height="210" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif"  />
 </div>
 
 ###
