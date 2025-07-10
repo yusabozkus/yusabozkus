@@ -76,10 +76,6 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" height="29" alt="visualstudio logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=vscode" height="29" alt="vscode logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="29" alt="unrealengine logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=unity" height="29" alt="unity logo"  />
 </div>
 
 ###
